@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>This is My Page </title>
+</head>
+<body>
+
+<h1 style="text-align:center;">Welcome to my page</h1>
+<h3 style="text-align:center;">My self Md Arif Ansari I am from Gaya Bihar. I have done BCA(Bachelor of computer Application).</h3>
+
+</body>
+</html> 
